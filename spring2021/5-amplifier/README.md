@@ -12,4 +12,4 @@ In this workshop led by Ethan Tabler, participants learned about different types
 - (WIP)
 
 ### Resources
-- N/A
+- [TI LM4950 webpage](https://www.ti.com/product/LM4950)
