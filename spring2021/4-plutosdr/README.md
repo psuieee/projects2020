@@ -1,4 +1,15 @@
 # Penn State IEEE
 ## PlutoSDR Workshop
+March 20, 2021
 
-Led by Rebecca DeSipio
+### About 
+(WIP)
+
+### Required Tools
+- (WIP)
+
+### Parts List
+- (WIP)
+
+### Resources
+- (WIP)
