@@ -12,4 +12,4 @@ In this workshop led by Ethan Tabler, participants learned about different types
 - (WIP)
 
 ### Resources
-- (WIP)
+- N/A
