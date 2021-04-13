@@ -12,5 +12,7 @@ In this workshop led by [Ethan Balcik](https://github.com/whatsacomputertho), pa
 - N/A
 
 ### Resources
-- [Graphics Engine Repo](https://github.com/whatsacomputertho/IEEE-Graphics-Workshop)
+- [Graphics engine repo](https://github.com/whatsacomputertho/IEEE-Graphics-Workshop)
+- [Workshop setup video](https://www.youtube.com/watch?v=1j68YIhdwT0)
+- [Workshop recording](https://www.youtube.com/watch?v=g_k1KnUcaeg)
 
