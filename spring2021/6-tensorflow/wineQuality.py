@@ -3,6 +3,7 @@
 import csv
 import tensorflow as tf
 import matplotlib.pyplot as plt
+# %matplotlib inline # uncomment this line if you're using a jupyter notebook
 
 #%% make dataset
 

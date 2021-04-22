@@ -3,7 +3,7 @@
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-
+# %matplotlib inline # uncomment this line if you're using a jupyter notebook
 
 #%% load mnist
 
