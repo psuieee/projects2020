@@ -13,4 +13,4 @@ In this workshop, participants completed two examples in which they trained and 
 - N/A
 
 ### Resources
-- N/A
+- [Tensorflow Homepage](https://www.tensorflow.org/)

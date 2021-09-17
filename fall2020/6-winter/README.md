@@ -12,7 +12,12 @@ For this workshop, attendees were shipped a kit of parts and a PCB, and followed
 - Jumper wires
 
 ### Parts List
-- (WIP)
+- Ornament PCB with pre-soldered ATTiny
+- (8) 300 Ohm, SMT 1206 resistors
+- (8) Assorted LEDs
+- SN74HC595N Shift Register IC
+- Jumper wires
+- LiPo Battery and charge module (OPTIONAL)
 
 ### Resources
 - [Tutorial Video](https://youtu.be/F8fKGx45B7o)
