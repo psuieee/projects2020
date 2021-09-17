@@ -9,7 +9,9 @@ Attendees to this workshop learned about basic GUI design with Python and Tkinte
 - PC/Mac/Linux machine running Python 3.5 or higher
 
 ### Parts List
-- (WIP)
+- N/A
 
 ### Resources
 - [Workshop Recording](https://www.youtube.com/watch?v=0Mzf5Dw98Mk)
+- [TkDocs](https://tkdocs.com/)
+- [Tk Python Docs](https://docs.python.org/3/library/tk.html)

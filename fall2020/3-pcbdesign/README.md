@@ -6,10 +6,10 @@ October 1, 2020
 Attendees to this workshop learned basic circuit and PCB design using Autodesk Eagle. This event was held remotely due to the COVID-19 pandemic.
 
 ### Required Tools
-- (WIP)
+- Laptop/Desktop with EAGLE installed
 
 ### Parts List
-- (WIP)
+- N/A
 
 ### Resources
 - [Workshop Recording](https://www.youtube.com/watch?v=64mze_LmskE)

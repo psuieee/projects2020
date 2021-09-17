@@ -7,9 +7,15 @@ In this workshop, participants learned how to use Micropython with the Raspberry
 
 ### Required Tools
 - Computer running Windows/Mac/Linux
+- Breadboard
+- USB cable
 
 ### Parts List
-- (WIP)
+- Raspberry Pi Pico board
+- (2) 330 Ohm resistors
+- (2) LEDs
+- (3) pushbuttons
 
 ### Resources
-- (WIP)
+- [Pico Documentation](https://www.raspberrypi.org/documentation/microcontrollers/raspberry-pi-pico.html)
+- [Getting Started Guide](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)

@@ -8,9 +8,16 @@ In this workshop led by [Will McGloughlin](https://github.com/wymcg) and [Ethan 
 ### Required Tools
 - Computer running Windows/Mac/Linux
 - Soldering iron, flux, and solder
+- USB cable
 
 ### Parts List
-- (WIP)
+- Pluto8 Macropad PCB
+- (8) standard diodes
+- (8) PCB-mounted keyswitches
+- (8) keycaps
+- (8) 3mm LEDs
+- Arduino Pro Micro (or equivalent)
+- 330 Ohm resistor
 
 ### Resources
 - [Workshop recording](https://www.youtube.com/watch?v=3-F2kgCTlxo)
